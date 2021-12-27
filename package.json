@@ -1,0 +1,11 @@
+{
+  "name": "create-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wiggimx/create-token.git",
+  "author": "Arturo Guerrero <aguerrero@wiggi.mx>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
